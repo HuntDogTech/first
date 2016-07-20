@@ -18,6 +18,7 @@ hs_err_pid*
 .idea
 first.iml
 out
+/target
 gen### Example user template template
 ### Example user template
 
